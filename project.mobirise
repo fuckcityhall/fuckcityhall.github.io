@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-15_1718",
+    "name": "ridersallince",
     "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
@@ -40,7 +40,10 @@
     "siteFonts": [],
     "uniqCompNum": 19,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/new-logo-box-128x129.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
